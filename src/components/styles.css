@@ -1,0 +1,6 @@
+.filter {
+  margin-left: 0.3rem;
+}
+.btnSelected {
+  border-bottom: 1px solid black;
+}
